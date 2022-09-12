@@ -2,7 +2,7 @@ dari  mengetik  impor  Koleksi
 impor  pymongo
 impor  uuid
 
-klien  =  pymongo . MongoClient ( "mongodb+srv://gilang:cQxUZhoHw7SmyBfa@cluster0.lco38k5.mongodb.net/?retryWrites=true&w=majority" )
+klien  =  pymongo . MongoClient ("mongodb+srv://alvina:zpFk9UM2K3iw8wnQ@cluster0.yj9nqdn.mongodb.net/?retryWrites=true&w=majority")
 db  =  klien . basis data
 koleksi  =  db . Gugus0
 
